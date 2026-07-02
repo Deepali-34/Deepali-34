@@ -10,7 +10,7 @@
 <img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- 🌟Passionate about advancing Artificial Intelligence through innovation, research, and real-world applications. As an aspiring AI & Machine Learning Scientist, I focus on building intelligent, scalable, and data-driven solutions using Machine Learning, Deep Learning, Generative AI, and Cloud Computing. I believe in continuous learning, hands-on development, and leveraging technology to create meaningful impact.
+- 🌟Passionate about advancing Artificial Intelligence through innovation, research, and real-world applications. As an aspiring AI/ML Engineer,I focus on building intelligent, scalable, and data-driven solutions using Machine Learning, Deep Learning, Generative AI, and Cloud Computing. I believe in continuous learning, hands-on development, and leveraging technology to create meaningful impact.
 
 
 ## 🧠 My Focus Areas
