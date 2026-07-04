@@ -2,7 +2,7 @@
 
 ###
 
-<h3align="center">Aspiring AI/ML Engineer ⚡ — "Turning data into intelligence and intelligence into impact."</h3>
+<h3  align="center">Aspiring AI/ML Engineer ⚡ — "Turning data into intelligence and intelligence into impact."</h3>
 
 ###
 
