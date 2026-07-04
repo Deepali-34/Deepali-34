@@ -99,7 +99,6 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Deepali-34/Deepali-34/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true&order=1&custom_title=Github%20Stats" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Deepali-34&locale=en&mode=daily&theme=chartreuse-dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://raw.githubusercontent.com/Deepali-34/Deepali-34/activity-graph-output/activity-graph.svg?radius=16&theme=arctic&area=true&order=5&custom_title=CONTRIBUTION%20GRAPH&bg_color=black&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
