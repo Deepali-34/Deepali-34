@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">Aspiring AI/ML Engineer ⚡ — "Turning data into intelligence and intelligence into impact."</h2>
+<h3align="center">Aspiring AI/ML Engineer ⚡ — "Turning data into intelligence and intelligence into impact."</h3>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<h4 align="left">🛠️ Languages and Tools</h4>
+<h2 align="left">🛠️ Languages and Tools</h2>
 
 ###
 
@@ -90,18 +90,18 @@
 
 ###
 
-<h4 align="left">🧠 My Focus Areas</h4>
+<h2 align="left">🧠 My Focus Areas</h2>
 
 ###
 
-<h3 align="left">
+<h4 align="left">
 Artificial Intelligence | Machine Learning<br>
 Deep Learning | Generative AI<br>
 Large Language Models (LLMs) | Retrieval-Augmented Generation (RAG)<br>
 Natural Language Processing (NLP) | Computer Vision<br>
 Cloud Computing (AWS) | Python Development<br>
 Data Analytics | Open Source Contributions
-</h3>
+</h4>
 
 ###
 
@@ -131,7 +131,7 @@ Data Analytics | Open Source Contributions
 
 ###
 
-<p align="left">Convincing algorithms to work harder than I do ! 😮‍💨</p>
+<h4  align="left">Convincing algorithms to work harder than I do ! 😮‍💨</h4>
 
 ###
 
