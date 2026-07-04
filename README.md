@@ -6,7 +6,7 @@
 
 ###
 
-<h5 align="left">🌟 Passionate about advancing Artificial Intelligence through innovation, research, and real-world applications. As an aspiring AI/ML Engineer, I focus on building intelligent, scalable, and data-driven solutions using Machine Learning, Deep Learning, Generative AI, and Cloud Computing. I believe in continuous learning, hands-on development, and leveraging technology to create meaningful impact.</h5>
+<h3 align="left">🌟 Passionate about advancing Artificial Intelligence through innovation, research, and real-world applications. As an aspiring AI/ML Engineer, I focus on building intelligent, scalable, and data-driven solutions using Machine Learning, Deep Learning, Generative AI, and Cloud Computing. I believe in continuous learning, hands-on development, and leveraging technology to create meaningful impact.</h3>
 
 ###
 
