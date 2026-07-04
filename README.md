@@ -2,28 +2,11 @@
 
 ###
 
-<p align="center">Aspiring AI/ML Engineer ⚡ — "Turning data into intelligence and intelligence into impact."</p>
+<h2 align="center">Aspiring AI/ML Engineer ⚡ — "Turning data into intelligence and intelligence into impact."</h2>
 
 ###
 
 <h3 align="left">🌟 Passionate about advancing Artificial Intelligence through innovation, research, and real-world applications. As an aspiring AI/ML Engineer, I focus on building intelligent, scalable, and data-driven solutions using Machine Learning, Deep Learning, Generative AI, and Cloud Computing. I believe in continuous learning, hands-on development, and leveraging technology to create meaningful impact.</h3>
-
-###
-
-<h4 align="left">🎓 Education</h4>
-
-###
-
-<table align="left" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td>🏛️ <b>Degree</b></td>
-    <td>B.Tech — Computer Science & Engineering (Data Science)</td>
-  </tr>
-  <tr>
-    <td>📚 <b>Minors</b></td>
-    <td>Full Stack Web Development &nbsp;|&nbsp; Cloud Computing &nbsp;|&nbsp; Docker &nbsp;|&nbsp; Kubernetes</td>
-  </tr>
-</table>
 
 ###
 
@@ -111,14 +94,14 @@
 
 ###
 
-<p align="left">
+<h3 align="left">
 Artificial Intelligence | Machine Learning<br>
 Deep Learning | Generative AI<br>
 Large Language Models (LLMs) | Retrieval-Augmented Generation (RAG)<br>
 Natural Language Processing (NLP) | Computer Vision<br>
 Cloud Computing (AWS) | Python Development<br>
 Data Analytics | Open Source Contributions
-</p>
+</h3>
 
 ###
 
@@ -152,10 +135,3 @@ Data Analytics | Open Source Contributions
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deepali-34/Deepali-34/snake-output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deepali-34/Deepali-34/snake-output/snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Deepali-34/Deepali-34/snake-output/snake.svg" />
-</picture>
-
-###
